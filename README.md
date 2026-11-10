@@ -8,7 +8,8 @@
 Configuración de una máquina virtual con **Ubuntu 24.04 LTS** en **VMware Workstation** (hipervisor de tipo 2) sobre Windows 10, actualización y personalización del sistema invitado y ejecución de un programa propio en **Python 3.12**.
 
 ## Video explicativo
-VIDEO_PENDIENTE
+https://youtu.be/nw5btoET2eU
+
 
 ## Documentación
 Informe técnico en PDF (raíz del repositorio): [Leon_Oscar_AySO_TI_Virtualizacion.pdf](Leon_Oscar_AySO_TI_Virtualizacion.pdf)
